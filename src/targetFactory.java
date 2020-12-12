@@ -1,0 +1,3 @@
+interface targetFactory {
+    void request();
+}
